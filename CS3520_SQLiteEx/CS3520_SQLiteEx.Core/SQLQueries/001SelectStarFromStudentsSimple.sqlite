@@ -1,0 +1,3 @@
+﻿-- Example query 1:
+-- Select all data from Students Table, with no filtering nor logic.
+SELECT * FROM Students;

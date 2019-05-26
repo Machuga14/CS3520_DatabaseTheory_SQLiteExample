@@ -1,0 +1,25 @@
+###################
+## Hand-made .gitignore - I don't really know much about it.
+###################
+
+# compiled directories:
+bin/
+obj/
+
+# .VS custom directory
+.vs/
+
+# Visual Studio Project Source Control
+*.vspscc
+
+# NUGET packages
+packages/
+
+# Solution User Options
+*.suo
+
+# Ignore /Externals folder in case that ever gets generated in the future.
+Externals/
+
+# Ignore StyleCop.Cache
+*tyleCop.Cache
